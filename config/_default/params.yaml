@@ -20,22 +20,22 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: szhzzn3@yuhs.ac
+phone: 010-4020-6004
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 연세로 50
+  city: 서울
+  region: 서울
+  postcode: '37266'
+  country: 한국
+  country_code: KR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '37.56143779587316'
+  longitude: '126.94072307186887'
+directions: 장례식장 4층, (의대 종합관 405호)
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - '월요일 09:00 to 18:00'
+  - '금요일 09:00 to 18:00'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter

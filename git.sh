@@ -1,7 +1,7 @@
-#git push 
+git push 
 
 
-git init
+Sgit init
 git status
 git add .
 
